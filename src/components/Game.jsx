@@ -3,7 +3,8 @@ import React from "react";
 const Game = () => {
     return (
         <div className="flex items-center justify-center h-screen bg-[#D5F3FE]">
-            <h2 className="text-3xl font-bold">Game Section</h2>
+            <h2 className="text-3xl font-bold mb-20">Game Section</h2>
+            <h3 className="text-2xl text-green-600 mx-20" >Math</h3>
         </div>
     );
 };
